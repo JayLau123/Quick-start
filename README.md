@@ -17,6 +17,8 @@ https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 ### Jupyter Notebook
 
+Web-based interactive development environment for notebooks,code,and data.
+
 https://docs.jupyter.org/en/latest/start/index.html
 
 ### Numpy
