@@ -53,6 +53,15 @@ cd to the newproject and type the command:
 
 When you open the directory again, you'll find that you already have the repository. Then navigate to the repository's address.
 
+### Advanced search with specific conditions: date, programming language, stars, 
+
+https://github.com/search/advanced
+
+### GitHub official manual book
+
+https://docs.github.com/en
+
+
 ## Pip
 
 When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'. With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors.
