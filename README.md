@@ -68,7 +68,7 @@ https://docs.github.com/en/copilot
 
 ## Pip
 
-When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip'. With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors.
+When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip', it's the standard Python package manager that downloads and installs packages from the Python package index. With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors.
 
 #### What is the error pip: command not found?
 
