@@ -23,17 +23,17 @@ https://docs.jupyter.org/en/latest/start/index.html
 
 ## Useful tips for GitHub
 
-1. In the main page of GitHub, typing **s**: search.
+1. In the main page of GitHub, typing **'s'**: search.
 
-2. When entering a certain project, the nested files are inconvenient to search. Typing **t**，search for all files in this repository.
+2. When entering a certain project, the nested files are inconvenient to search. Typing **'t'**，search for all files in this repository.
 
-3. Typing **command+k**: Navigation inside the page
+3. Typing **'command+k'**: Navigation inside the page
 
-4. Click into a file, say XX.py. Typing **L**: navigate to a certain line of the file, and you may copy that line.
+4. Click into a file, say XX.py. Typing **'L'**: navigate to a certain line of the file, and you may copy that line.
 
-5. Typing **b**: you can find the correction, updates, and all history record of the opened file.
+5. Typing **'b'**: you can find the correction, updates, and all history record of the opened file.
 
-7. Navigate to a specific project, and type the dot symbol **.**, it would open a web-based VScode editor and you can run any program on that web.
+7. Navigate to a specific project, and type the dot symbol **'.'**, it would open a web-based VScode editor and you can run any program on that web.
 
 6. Web-based editor. On the top of the Github website, type:
 
