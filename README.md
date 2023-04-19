@@ -21,14 +21,26 @@ Web-based interactive development environment for notebooks,code,and data.
 
 https://docs.jupyter.org/en/latest/start/index.html
 
-### Numpy
+## Useful tips for GitHub
 
-https://numpy.org/doc/stable/user/quickstart.html
+1. In the main page of GitHub, typing ’s’: search.
 
-### Pandas
+2. When entering a certain project, the nested files are inconvenient to search. Typing ‘t’，search for all files in this repository.
 
-https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
+3. Typing ‘command+k’: Navigation inside the page
 
+4. Click into a file, say XX.py. Typing ‘L’: navigate to a certain line of the file, and you may copy that line.
+
+5. Typing ‘b’: you can find the correction, updates, and all history record of the opened file.
+
+7. Navigate to a specific project, and type '.', it would open a web-based VScode editor and you can run any program on that web.
+
+6. Web-based editor. On the top of the Github website, type:
+
+    
+        gitpod.io/#/
+
+infront of the address. With this tool, you don’t need to download the project locally and build the corresponding environment with terminal. The project will be opened in a **web-based editor**, it’s sort of a server and you may use it as your personal laptop. Many popular languages are pre-installed including Python, Java, Go. You can execute some project by typing commands, and check the result in the website.
 
 ## How to clone repository from Github
 
@@ -64,7 +76,6 @@ https://docs.github.com/en
 ### GitHub Copilot 
 
 https://docs.github.com/en/copilot
-
 
 ## Pip
 
