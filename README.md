@@ -61,6 +61,10 @@ https://github.com/search/advanced
 
 https://docs.github.com/en
 
+### GitHub Copilot 
+
+https://docs.github.com/en/copilot
+
 
 ## Pip
 
