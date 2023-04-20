@@ -118,3 +118,13 @@ You can check your Python version on Linux and Mac like this:
 Find, install and publish Python packages with the Python Package Index
 
 https://pypi.org/
+
+## 🤔 Some tips for your research path
+
+Get into grad school for science, engineering, math and computer science:
+
+https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/
+
+Advice for researchers and students:
+
+https://homes.cs.washington.edu/~mernst/advice/
