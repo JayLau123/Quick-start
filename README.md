@@ -128,3 +128,7 @@ https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-sc
 Advice for researchers and students:
 
 https://homes.cs.washington.edu/~mernst/advice/
+
+How to get a great letter of recommendation:
+
+https://matt.might.net/articles/how-to-recommendation-letter/
