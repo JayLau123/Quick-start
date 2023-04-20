@@ -77,6 +77,25 @@ https://docs.github.com/en
 
 https://docs.github.com/en/copilot
 
+### Gitpod
+
+Gitpod is a cloud-based Integrated Development Environment (IDE) that allows developers to write, build, test, and debug their code from any device with a web browser. It provides a complete and ready-to-code development environment, simplifying the setup and maintenance of development environments for projects.
+
+Gitpod integrates with popular code hosting platforms such as GitHub, GitLab, and Bitbucket. When you open a repository on one of these platforms in Gitpod, it automatically creates a new development environment tailored to the project's specific needs. This can include pre-installed tools, languages, and frameworks, as well as pre-built dependencies.
+
+**Gitpod offers features like:**
+
+-Prebuilt workspaces: Gitpod can automatically build your project's dependencies whenever new code is pushed to a repository, ensuring that workspaces start up quickly.
+
+-Collaborative coding: Gitpod supports real-time collaboration, allowing multiple developers to work on the same codebase and share their workspaces with others.
+
+-Customizable environments: You can create custom Docker images for your projects to ensure that all the necessary tools, packages, and settings are available when starting a new workspace.
+
+-Integration with popular tools: Gitpod integrates with VS Code, allowing you to use familiar extensions and shortcuts while working in the cloud-based IDE.
+
+To get started with Gitpod, you can visit their website (https://www.gitpod.io/) and sign up for a free or paid plan, depending on your needs.
+
+
 ## Pip
 
 When using Python, you might need to install and use certain packages. And there is a command available for that known as 'pip', it's the standard Python package manager that downloads and installs packages from the Python package index. With pip, you can install, upgrade, and uninstall various Python packages. You'll learn how to use it, and how to handle pip errors.
