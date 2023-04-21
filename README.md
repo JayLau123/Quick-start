@@ -132,9 +132,17 @@ You can check your Python version on Linux and Mac like this:
 
     python --version
 
-If any package is missing during the running of Jupyter notebook, you can directly open a new terminal to install the corresponding package: 
+#### If any package is missing during the running of Jupyter notebook, you can directly open a new terminal to install the corresponding package: 
 
 pip install XXX
+
+#### Check if any packages have been installed on your computer system. For example, 'numpy'
+
+    import numpy as np
+    print("Numpy version:", np.__version__)
+
+
+
 
 ## PyPI(Python Package Index) 
 
